@@ -1,5 +1,5 @@
 public class Salesperson extends Employee1 {
-    private double commissionPercentage;
+    private dsacadcadcouble commissionPercentage;
     
     public Salesperson(String name, double salary, int age, double commissionPercentage) {
         super(name, salary, age);
